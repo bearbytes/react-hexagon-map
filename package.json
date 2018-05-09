@@ -1,0 +1,9 @@
+{
+  "name": "react-hexagon-map",
+  "version": "1.0.0",
+  "description": "Renders a customizable hexagon map using svg, complete with zooming and scrolling",
+  "main": "index.js",
+  "repository": "https://github.com/bearbytes/react-hexagon-map.git",
+  "author": "Daniel Ebert",
+  "license": "MIT"
+}
